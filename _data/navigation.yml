@@ -7,10 +7,9 @@ main:
   - title: "Публикации"
     url: /category-archive/
   - title: "О театре"
-    url: /about/
     children:
       - title: "Студия Пушкаревой"
-        url: /
+        url: /about/
       - title: "Дети театра"
         url: /
       - title: "Наша команда"

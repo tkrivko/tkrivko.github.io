@@ -2,15 +2,15 @@
 main:
   - title: "Главная"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Perfomances"
+  - title: "Спектакли"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Articles"
+  - title: "Публикации"
     url: /year-archive/
-  - title: "About"
+  - title: "О театре"
     url: /collection-archive/
-  - title: "Theatre"
+  - title: "Галерея"
     url: /sitemap/
-  - title: "Gallery"
+  - title: "Фонд"
     url: /sitemap/
-  - title: "Contacts"
+  - title: "Контакты"
     url: /sitemap/

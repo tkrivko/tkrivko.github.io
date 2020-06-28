@@ -11,13 +11,48 @@ minimal_mistakes_skin: contrast
 search: true
 search_full_content: true
 
+# Site Author
+author:
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:info@theatre-i.by"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      # url: "https://www.youtube.com/channel/UCb41oMHjMOzA0ukYjc_GU6g/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://www.instagram.com/inclusivetheatre/"
+
+# Site Footer
+footer:
+  links:
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: "Europe/Minsk" 
 

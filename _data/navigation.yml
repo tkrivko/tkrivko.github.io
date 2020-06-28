@@ -3,12 +3,12 @@ main:
   - title: "Главная"
     url: https://tkrivko.github.io/
   - title: "Спектакли"
-    url: 
+    url:/plays/ 
   - title: "Публикации"
     url: /category-archive/
   - title: "О театре"
     url: /about/
-  - title: "Галерея"
+  - title: "Фотоотчеты"
     url: /gallery/
   - title: "Фонд"
     url: /fond/

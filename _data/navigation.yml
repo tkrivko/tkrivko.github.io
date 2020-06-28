@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Главная"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://tkrivko.github.io/
   - title: "Спектакли"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: 
   - title: "Публикации"
-    url: /year-archive/
+    url: /posts/
   - title: "О театре"
     url: /collection-archive/
     children:

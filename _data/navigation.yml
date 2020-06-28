@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "Главная"
+  - title: "Main"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Спектакли"
+  - title: "Perfomances"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Публикации"
+  - title: "Articles"
     url: /year-archive/
-  - title: "О театре"
+  - title: "About"
     url: /collection-archive/
-  - title: "Фонд"
+  - title: "Theatre"
     url: /sitemap/
-  - title: "Фотоотчеты"
+  - title: "Gallery"
     url: /sitemap/
-  - title: "Контакты"
+  - title: "Contacts"
     url: /sitemap/

@@ -5,7 +5,7 @@ main:
   - title: "Спектакли"
     url:/plays/ 
   - title: "Публикации"
-    url: /category-archive/
+    url: /posts/
   - title: "О театре"
     url: /about/
   - title: "Фотоотчеты"

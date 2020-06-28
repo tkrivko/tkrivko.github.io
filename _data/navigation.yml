@@ -5,9 +5,9 @@ main:
   - title: "Спектакли"
     url: 
   - title: "Публикации"
-    url: /posts/
+    url: /category-archive/
   - title: "О театре"
-    url: /collection-archive/
+    url: /about/
     children:
       - title: "Студия Пушкаревой"
         url: /

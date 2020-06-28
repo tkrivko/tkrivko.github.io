@@ -8,6 +8,13 @@ main:
     url: /year-archive/
   - title: "О театре"
     url: /collection-archive/
+    children:
+      - title: "Студия Пушкаревой"
+        url: /
+      - title: "Дети театра"
+        url: /
+      - title: "Наша команда"
+        url: /
   - title: "Галерея"
     url: /sitemap/
   - title: "Фонд"

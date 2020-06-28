@@ -1,4 +1,16 @@
-title: Your awesome title
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: contrast
+search: true
+search_full_content: true
+
+# Site Settings
+title: Семейный инклюзив театр i
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -7,43 +19,22 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-minimal_mistakes_skin: contrast
-search: true
-search_full_content: true
-
-# Site Author
-author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:info@theatre-i.by"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      # url: "https://www.youtube.com/channel/UCb41oMHjMOzA0ukYjc_GU6g/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/inclusivetheatre/"
 
 # Site Footer
 footer:
   links:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube-square"
-      # url:
+      # url:"https://www.youtube.com/channel/UCb41oMHjMOzA0ukYjc_GU6g/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      # url:"https://facebook.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url:"https://www.instagram.com/inclusivetheatre/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:info@theatre-i.by"
 
 
 # Build settings

@@ -3,7 +3,7 @@ main:
   - title: "Главная"
     url: https://tkrivko.github.io/
   - title: "Спектакли"
-    url:/plays/ 
+    url: /plays/ 
   - title: "Публикации"
     url: /posts/
   - title: "О театре"

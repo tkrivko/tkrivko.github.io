@@ -2,7 +2,7 @@
 layout: single
 title:  "Театр детской радости"
 date:   2019-10-01 11:10:56 +0300
-categories: articles 2019 october
+categories: jekyll update
 ---
 Театральный обозреватель Татьяна Орлова о том, какими должны быть детские спектакли.
 

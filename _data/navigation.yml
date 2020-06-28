@@ -17,6 +17,6 @@ main:
   - title: "Галерея"
     url: /sitemap/
   - title: "Фонд"
-    url: /sitemap/
+    url: /fond/
   - title: "Контакты"
     url: /contacts/

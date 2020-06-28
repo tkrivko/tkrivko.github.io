@@ -7,11 +7,13 @@ categories: jekyll update
 Театральный обозреватель Татьяна Орлова о том, какими должны быть детские спектакли.
 
 <figure class="third">
-	<img src="D:/Театр/gh_pages/assets/images/2019-10-01-theatre 1/Screen_1.png">
-	<img src="D:/Театр/gh_pages/assets/images/2019-10-01-theatre 1/Screen_2.png">
-	<img src="D:/Театр/gh_pages/assets/images/2019-10-01-theatre 1/Screen_3.png">
+	<img src="https://tkrivko.github.io/assets/images/2019-10-01-theatre1/Screen_1.png">
+	<img src="https://tkrivko.github.io/assets/images/2019-10-01-theatre1/Screen_2.png">
+	<img src="https://tkrivko.github.io/assets/images/2019-10-01-theatre1/Screen_3.png">
 	<figcaption>Caption describing this image</figcaption>
 </figure>
+
+![Screen_](https://tkrivko.github.io/assets/images/2019-10-01-theatre1/Screen_1.png)
 
 В обычных театрах детские спектакли играют взрослые артисты, предназначая их маленьким зрителям. В театре, о котором мы вам расскажем, все наоборот. Дети играют для взрослых. И даже предлагают родителям приводить с собой трудных подростков. Этот необычный коллектив называется Семейный инклюзив-театр "i". Он выпустил спектакль "Восемь чувств, или рождение человека". У театра интересные истоки.
 

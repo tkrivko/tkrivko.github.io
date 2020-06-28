@@ -7,15 +7,9 @@ main:
   - title: "Публикации"
     url: /category-archive/
   - title: "О театре"
-    children:
-      - title: "Студия Пушкаревой"
-        url: /about/
-      - title: "Дети театра"
-        url: /
-      - title: "Наша команда"
-        url: /
+    url: /about/
   - title: "Галерея"
-    url: /sitemap/
+    url: /gallery/
   - title: "Фонд"
     url: /fond/
   - title: "Контакты"

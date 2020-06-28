@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Галерея"
+title: "Фотоотчеты"
 permalink: /gallery/
 author_profile: false
 ---

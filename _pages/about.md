@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "О театре"
 permalink: /about/
 author_profile: false

@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Главная"
-    url: https://tkrivko.github.io/
   - title: "Спектакли"
     url: /plays/ 
   - title: "Публикации"

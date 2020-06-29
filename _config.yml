@@ -10,6 +10,7 @@ search: true
 search_full_content: true
 
 # Site Settings
+logo: "/assets/images/Screenshot_1.png"
 title: Семейный инклюзив театр i
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"

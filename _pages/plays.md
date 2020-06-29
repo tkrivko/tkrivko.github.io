@@ -5,6 +5,8 @@ permalink: /plays/
 author_profile: false
 ---
 
+![Screen_](https://tkrivko.github.io/assets/images/2019-10-01-theatre1/Screen_1.png)
+
 8 чувств, или рождение Человека
 
 «Восемь чувств, или Рождение человека» – яркая международная театральная постановка белорусского Семейного инклюзив-театра «i» и голландского театра Kazou.

@@ -8,7 +8,7 @@ main:
     url: /posts/
   - title: "О театре"
     url: /about/
-  - title: "Фотоотчеты"
+  - title: "Галерея"
     url: /gallery/
   - title: "Фонд"
     url: /fond/

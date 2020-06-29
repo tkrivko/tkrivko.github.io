@@ -4,12 +4,10 @@ title: "Спектакли"
 permalink: /plays/
 author_profile: false
 ---
-
-<div class='block'>
-  <label>8 чувств, или Рождение человека</label>
-
+### 8 чувств, или Рождение человека
 ![Screen_1](https://tkrivko.github.io/assets/images/2019-10-01-theatre1/Screen_1.png)
 
+<div class='block'>
   <atom-text-editor mini>«Восемь чувств, или Рождение человека» – яркая международная театральная постановка белорусского Семейного инклюзив-театра «i» и голландского театра Kazou.
 
 Режиссёр-постановщик - Ирина Пушкарёва

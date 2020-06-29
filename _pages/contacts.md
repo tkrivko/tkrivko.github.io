@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "Контакты"
 permalink: /contacts/
 author_profile: false

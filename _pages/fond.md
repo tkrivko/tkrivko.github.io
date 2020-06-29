@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "Фонд"
 permalink: /fond/
 author_profile: false

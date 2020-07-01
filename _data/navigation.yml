@@ -1,14 +1,6 @@
 # main links
 main:
-  - title: "Спектакли"
-    url: /plays/ 
-  - title: "Публикации"
-    url: /posts/
-  - title: "О театре"
+   title: "О театре"
     url: /about/
-  - title: "Галерея"
-    url: /gallery/
-  - title: "Фонд"
-    url: /fond/
-  - title: "Контакты"
+ - title: "Контакты"
     url: /contacts/

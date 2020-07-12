@@ -5,8 +5,6 @@ date:   2019-03-29 11:10:56 +0300
 categories: спектакли 8_чувств
 ---
 
-***Источник:** "Аргументы и факты"* [https://aif.by/timefree/culture-news/gennadiy_fomin_rabotaya_s_detmi_ya_ponyal_kak_oni_umny](https://aif.by/timefree/culture-news/gennadiy_fomin_rabotaya_s_detmi_ya_ponyal_kak_oni_umny)
-
 ![Screen_](https://tkrivko.github.io/assets/images/2019-03-29-gennadiy_fomin_aif/1558bf6e1f0f31117262e44070d39d0d.jpg)
 
 Например, «8 чувств, или Рождение человека» Семейного инклюзив-театра «i», созданный при поддержке компании velcom (в постановке Ирины Пушкаревой при участии Геннадия Фомина с белорусской стороны, Ханса Салеминка из Нидерландов, а также хореографа Дениса Дадишкилиани и Сергея Исакова, отвечающего за видеоряд), - это фантазия-погружение. А жанр своего авторского спектакля «Без слов о любви» Геннадий вовсе затруднился назвать. Но, как мы поняли, действо будет необычным, а значит, свежие театральные эксперименты необходимо увидеть своими глазами.
@@ -41,6 +39,7 @@ categories: спектакли 8_чувств
 
 В Беларуси все происходит намного быстрее, хотя я не могу сказать, что у меня много работы, - ее мало. Я не избалован. Но, например, сейчас мои мысли заняты спектаклями, и это очень радует.
 
+***Источник:** "Аргументы и факты"* [https://aif.by/timefree/culture-news/gennadiy_fomin_rabotaya_s_detmi_ya_ponyal_kak_oni_umny](https://aif.by/timefree/culture-news/gennadiy_fomin_rabotaya_s_detmi_ya_ponyal_kak_oni_umny)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

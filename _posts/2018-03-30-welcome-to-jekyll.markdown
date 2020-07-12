@@ -5,8 +5,6 @@ date:   2018-03-30 11:10:56 +0300
 categories: дерево_сказок спектакли
 ---
 
-Источник: "Аргументы И факты" [https://aif.by/timefree/culture-news/unikalnyy_teatr_vozvrashchaet_osobennyh_detey_v_zhizn](https://aif.by/timefree/culture-news/unikalnyy_teatr_vozvrashchaet_osobennyh_detey_v_zhizn "Уникальный театр возвращает особенных детей в жизнь")
-
 ![Screen_](https://tkrivko.github.io/assets/images/2018-03-30-unikalnyy_teatr_vozvrashchaet_osobennyh_detey_v_zhizn/screen-1.jpg)
 
 ## «Мы первые не только в Беларуси, но и в мире». Уникальный театр возвращает особенных детей в жизнь ##
@@ -92,6 +90,8 @@ categories: дерево_сказок спектакли
 Робкая идея помочь родителям, которые воспитывают особенных детей, и самим детям попробовать выйти из дома и начать взаимодействовать с большим миром выросла в большую социальную инициативу. И чем дальше, тем очевиднее ее польза и тем больше людей, даже не связанных с проблемой аутизма, вовлекаются в этот удивительный проект.
 
 Посмотреть спектакль «Дерево сказок» можно 2 апреля в Республиканском дворце культуры ветеранов по адресу ул. Я. Купалы, 21 в 19:30.
+
+***Источник:*** "Аргументы И факты" [https://aif.by/timefree/culture-news/unikalnyy_teatr_vozvrashchaet_osobennyh_detey_v_zhizn](https://aif.by/timefree/culture-news/unikalnyy_teatr_vozvrashchaet_osobennyh_detey_v_zhizn "Уникальный театр возвращает особенных детей в жизнь")
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

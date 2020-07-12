@@ -2,10 +2,8 @@
 layout: single
 title:  "«Винить в своих проблемах детство — ошибка»: Психологи о том, как миллениалам не бояться жизни"
 date:   2019-03-19 11:10:56 +0300
-categories: jekyll update
+categories: 8_чувств спектакли
 ---
-
-*Источник:* [https://www.the-village.me/village/culture/kult-specproject/273973-chuvstva-pokoleniya](https://www.the-village.me/village/culture/kult-specproject/273973-chuvstva-pokoleniya)
 
 # «Можно жить без романтических отношений»: Как миллениалам не бояться жизни и смерти #
 
@@ -140,6 +138,8 @@ categories: jekyll update
 Всего в действии занято около 80 актеров: как воспитанников театра «i», так и присоединившихся к ним известных в Беларуси профессиональных актеров.
 
 Билеты на премьеру можно приобрести на сайте билетного оператора bycard.by. Телефон для справок: 8029 622 20 90.
+
+*Источник:* [https://www.the-village.me/village/culture/kult-specproject/273973-chuvstva-pokoleniya](https://www.the-village.me/village/culture/kult-specproject/273973-chuvstva-pokoleniya)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

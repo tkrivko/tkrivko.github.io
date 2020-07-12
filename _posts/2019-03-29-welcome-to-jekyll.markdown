@@ -5,7 +5,7 @@ date:   2019-03-29 11:10:56 +0300
 categories: спектакли 8_чувств
 ---
 
-***Источник:** "Аргументы и факты"* [https://aif.by/timefree/culture-news/unikalnyy_teatr_vozvrashchaet_osobennyh_detey_v_zhizn](https://aif.by/timefree/culture-news/unikalnyy_teatr_vozvrashchaet_osobennyh_detey_v_zhizn "Уникальный театр возвращает особенных детей в жизнь")
+***Источник:** "Аргументы и факты"* [https://aif.by/timefree/culture-news/gennadiy_fomin_rabotaya_s_detmi_ya_ponyal_kak_oni_umny](https://aif.by/timefree/culture-news/gennadiy_fomin_rabotaya_s_detmi_ya_ponyal_kak_oni_umny)
 
 ![Screen_](https://tkrivko.github.io/assets/images/2019-03-29-gennadiy_fomin_aif/1558bf6e1f0f31117262e44070d39d0d.jpg)
 

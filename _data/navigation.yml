@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Спектакли"
-    url: /plays/ 
   - title: "Публикации"
     url: /posts/
   - title: "О театре"

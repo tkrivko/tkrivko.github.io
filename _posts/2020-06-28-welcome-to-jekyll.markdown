@@ -7,6 +7,8 @@ categories: дерево_сказок спектакли
 
 Источник: "Аргументы И факты" [https://aif.by/timefree/culture-news/unikalnyy_teatr_vozvrashchaet_osobennyh_detey_v_zhizn](https://aif.by/timefree/culture-news/unikalnyy_teatr_vozvrashchaet_osobennyh_detey_v_zhizn "Уникальный театр возвращает особенных детей в жизнь")
 
+![Screen_](https://tkrivko.github.io/assets/images/2018-03-30 unikalnyy_teatr_vozvrashchaet_osobennyh_detey_v_zhizn/screen-1.jpg)
+
 ## «Мы первые не только в Беларуси, но и в мире». Уникальный театр возвращает особенных детей в жизнь ##
 
  В который раз на одну площадку выйдут обычные и особенные актеры, и в который раз зрители вряд ли смогут их различить. Мы побывали на репетиции сказочного спектакля, увидели миниатюрную модель общества равных возможностей в действии и убедились: театр – идеальная среда для развития и самореализации детей с аутизмом.

@@ -140,3 +140,7 @@ categories: jekyll update
 Всего в действии занято около 80 актеров: как воспитанников театра «i», так и присоединившихся к ним известных в Беларуси профессиональных актеров.
 
 Билеты на премьеру можно приобрести на сайте билетного оператора bycard.by. Телефон для справок: 8029 622 20 90.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

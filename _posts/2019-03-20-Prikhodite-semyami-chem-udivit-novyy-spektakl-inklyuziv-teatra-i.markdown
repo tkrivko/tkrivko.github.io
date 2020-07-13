@@ -62,7 +62,7 @@ tags: 8_чувств
 О гастролях театра, возможной записи телеспектакля и теме инклюзии в Беларуси [смотрите на видео](https://www.youtube.com/watch?v=5uUJ-_gI43w&feature=youtu.be).
 
 
-***Источник:*** https://sputnik.by/culture/20190320/1040549503/Prikhodite-semyami-chem-udivit-novyy-spektakl-inklyuziv-teatra-i.html
+***Источник:*** [https://sputnik.by/culture/20190320/1040549503/Prikhodite-semyami-chem-udivit-novyy-spektakl-inklyuziv-teatra-i.html](https://sputnik.by/culture/20190320/1040549503/Prikhodite-semyami-chem-udivit-novyy-spektakl-inklyuziv-teatra-i.html)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

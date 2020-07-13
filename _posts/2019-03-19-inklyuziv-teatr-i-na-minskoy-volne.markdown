@@ -13,7 +13,7 @@ categories: jekyll update
 
 ![Screen_](https://tkrivko.github.io/assets/images/2019-03-19-inklyuziv-teatr-i-na-minskoy-volne/19-03-2019-Gosti-17-565.jpg)
 
-***Запись эфира по ссылку в источнике:*** [https://mvradio.by/actions/item/14887-inklyuziv-teatr-i-na-minskoy-volne-priglashaet-na-premeru](https://mvradio.by/actions/item/14887-inklyuziv-teatr-i-na-minskoy-volne-priglashaet-na-premeru)
+***Запись эфира по ссылке в источнике:*** [https://mvradio.by/actions/item/14887-inklyuziv-teatr-i-na-minskoy-volne-priglashaet-na-premeru](https://mvradio.by/actions/item/14887-inklyuziv-teatr-i-na-minskoy-volne-priglashaet-na-premeru)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

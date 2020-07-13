@@ -57,6 +57,8 @@ tags: 8_чувств
 
 > Премьера постановки «8 чувств, или Рождение нового человека» состоится 2 апреля в 19:00 на сцене Дворца культуры профсоюзов.
 
+{% include video id="-jDl5VM-FPc" provider="youtube" %}
+
 
 *Источник:*  [https://lady.tut.by/news/life/632125.html](https://lady.tut.by/news/life/632125.html)
 

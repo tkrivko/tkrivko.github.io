@@ -29,7 +29,7 @@ E-mail: p.antonov@sputniknews.com;
 Моб.: +375 (29) 550-06-31.
 
 
-***Источник:*** https://sputnik.by/press_center/20190319/1040533456/O-premere-inklyuziv-teatra-i-Vosem-chuvstv-rasskazhut-sozdateli.html
+***Источник:***[ https://sputnik.by/press_center/20190319/1040533456/O-premere-inklyuziv-teatra-i-Vosem-chuvstv-rasskazhut-sozdateli.html]( https://sputnik.by/press_center/20190319/1040533456/O-premere-inklyuziv-teatra-i-Vosem-chuvstv-rasskazhut-sozdateli.html)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

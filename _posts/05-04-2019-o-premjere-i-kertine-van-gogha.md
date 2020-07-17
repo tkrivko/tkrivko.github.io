@@ -46,6 +46,8 @@ tags: 8 чувств
 
 ***Автор:*** [Юлия Андреева](https://ooliwa.wixsite.com/teatr-i/blog/author/%D0%AE%D0%BB%D0%B8%D1%8F-%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B0%2C-sb.by)
 
+Источник: https://www.sb.by/articles/na-ploshchadke-u-minskoy-ratushi-zazhgli-zvezdnuyu-noch.html?fbclid=IwAR2u1xTLYzXfCB3b8WJS6_0tey6q31k-4DT60EoDUZzlsPxydBZSbDtHY80
+
 ----
 
 
